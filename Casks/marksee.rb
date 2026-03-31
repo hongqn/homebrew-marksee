@@ -1,6 +1,6 @@
 cask "marksee" do
-  version "0.1.0"
-  sha256 "adc46704b410e858b4fd5eaea3700b60666b7f37d8a8f659e9f7331ad623903c"
+  version "0.2.0"
+  sha256 "d4ea81b98cd60f7090629868fe3f754663f6c0d65ff66ba89b1b52324dfd14a4"
 
   url "https://github.com/hongqn/marksee/releases/download/v#{version}/MarkSee-#{version}.dmg"
   name "MarkSee"
